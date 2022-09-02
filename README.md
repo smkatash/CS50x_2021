@@ -13,7 +13,7 @@ You can find the materials for the course <a href='https://cs50.harvard.edu/x/20
 Hope this is helpful to other students, if you don't mind please leave a star!
 Every exercise in this repository scored 100% on submission.
 
-
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/76934648/188132089-f2e52b6f-8df5-4cb3-8fa4-c28c3f631bf6.png">
 
 # Table Of Contents
 
@@ -79,6 +79,4 @@ Every exercise in this repository scored 100% on submission.
 
 
 
-
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/76934648/188132089-f2e52b6f-8df5-4cb3-8fa4-c28c3f631bf6.png">
 
