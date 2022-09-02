@@ -8,20 +8,17 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)\
 This repository contains my solutions to Harvard University's <a href='https://www.youtube.com/watch?v=FsYdgKO4AQU&t=1s/'>🖥️ 2021 CS50 intro course</a> assignments and document my progress during the course. <br>
 You can find the materials for the course <a href='https://cs50.harvard.edu/x/2021/'>here</a> or look at the assignments specifications linked at right of every section in the table of contents. <br>
 Every exercise in this repository scored 100% on submission.
-# Certificate from CS50x:
+### Certificate from CS50x:
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/76934648/188132089-f2e52b6f-8df5-4cb3-8fa4-c28c3f631bf6.png">
 
 # Table Of Contents
 - ⛳[Week-1](week1/) ```[Theme: Basics of C, Greedy Algorithm, Cryptography]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
   - Lab
-    - [Hello](pset1/hello)
-    - [Population](pset1/population)
+    - [Hello]
+    - [Population]
   - Problem set
-    - [Mario](pset1/mario)
-      - [Less comfortable](pset1/mario/less)
-      - [More comfortable](pset1/mario/more)
-    - [Cash](pset1/cash)
-    - [Credit](pset1/credit)
+    - [Mario]
+    - [Credit]
  
  - ⛳[Week-2](pset2/) ```[Theme: Arrays, Cryptography, Encryption]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
     - Lab
