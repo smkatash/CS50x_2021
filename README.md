@@ -26,9 +26,9 @@ Every exercise in this repository scored 100% on submission.
 
 - 📝[Week-7](week7/) ```[Theme: SQLite, Database querying, Crime Investigation]``` <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a>
 
-- 📝[Week-8](week8/) ```[Theme: HTML, CSS, JavaScript]``` <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="sqlite" width="30" height="20"/> </a>
+- 📝[Week-8](week8/) ```[Theme: HTML, CSS, JavaScript]``` <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="sqlite" width="50" height="20"/> </a>
 
-- 📝[Week-9](week9/) ```[Theme: Flask]``` <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="sqlite" width="30" height="20"/> </a>
+- 📝[Week-9](week9/) ```[Theme: Flask]``` <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="sqlite" width="50" height="20"/> </a>
 
 - 🟢[Final Project](project/) ```[Theme: A web-based application using JavaScript, Python, and SQL]```
 
