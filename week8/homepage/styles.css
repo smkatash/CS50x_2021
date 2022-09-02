@@ -1,0 +1,166 @@
+body {
+  background-image: url("139.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header {
+  padding: 6px 20px;
+  background: black;
+  color: black;
+}
+
+#toph2 {
+  color: white;
+  text-decoration: line-through;
+  font-size: 25px;
+}
+
+.header a{
+  color: white;
+  background-color: transparent;
+  text-decoration: line-through;
+}
+
+.header a:hover, a:active {
+  color: red;
+}
+
+h2 {
+  color: white;
+  font-size: 25px;
+  display: inline;
+}
+
+
+.header p{
+  font-size: 14px;
+  display: inline;
+  position: relative;
+  left: 500px;
+  padding: 10px;
+}
+
+
+
+.iana {
+  position: fixed;
+  bottom: 52%;
+  left: 35%;
+  height: 200px;
+  width: 380px;
+}
+
+.coco {
+  position: fixed;
+  bottom: 50%;
+  left: 35%;
+  height: 200px;
+  width: 380px;
+}
+
+.cocotext{
+  position: fixed;
+  bottom: 81%;
+  left: 34%;
+  background-color: white;
+  height: 40px;
+  font-family: "Brush Script MT";
+  font-size: 35px;
+}
+
+.video {
+  position: fixed;
+  bottom: 30%;
+  left: 25%;
+}
+
+.videotext{
+  position: fixed;
+  bottom: 81%;
+  left: 30%;
+  background-color: salmon;
+  height: 40px;
+  font-family: "Brush Script MT";
+  font-size: 35px;
+  color: white;
+}
+
+.snoopf {
+  position: fixed;
+  bottom: 45%;
+  left: 35%;
+  height: 250px;
+  width: 380px;
+}
+
+.snoop{
+  position: fixed;
+  bottom: 81%;
+  left: 28%;
+  background-color: black;
+  height: 40px;
+  font-family: "Brush Script MT";
+  font-size: 35px;
+  color: white;
+}
+
+.dream{
+  position: fixed;
+  bottom: 40%;
+  left: 28%;
+  background-color: white;
+  font-family: "Apple Chancery";
+  font-size: 28px;
+  color: #FFA500;
+  text-align: center;
+}
+
+
+.content .image1 {
+  height: 100%;
+  width: 100%;
+}
+
+.image1 img{
+  height: 100%;
+  width: 100%;
+}
+
+
+#slider {
+  position:fixed;
+  bottom: 70px;
+  left: 30%;
+}
+
+.content{
+  height: 520px;
+  width: 480px;
+  overflow: hidden;
+  box-shadow: 1px 1px 15px rgba(0,0,0,0.4);
+}
+.content .images{
+  height: 100%;
+  width: 100%;
+}
+.images img{
+  height: 100%;
+  width: 100%;
+}
+
+
+.footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  display: block;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+

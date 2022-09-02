@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <title>ianaplusone</title>
+    </head>
+
+    <body>
+        <div class="header" id="myHeader">
+          <h2><a href="index.html">IANAPLUSONE</a></h2>
+          <p><a href="page1.html">HERE FOR YOU</a></p>
+          <p><a href="page2.html">YOUR PLACE</a></p>
+          <p><a href="page3.html">FORMIDABLE</a></p>
+          <p><a href="page4.html">SNOOPY-STYLE</a></p>
+          <p><a href="page5.html">DREAM</a></p>
+        </div>
+
+
+
+        <div class="iana">
+            <div class="image1">
+                <img src="IANA2.jpg">
+            </div>
+        </div>
+
+
+    <footer class="footer">
+      <p>You’re the missing last piеce. The most important piece.<br>
+      (c) Copyrights of all used files belong to their owners.</p>
+    </footer>
+
+
+     </body>
+
+
+    <script>
+        window.onscroll = function() {myFunction()};
+        var header = document.getElementById("myHeader");
+        var sticky = header.offsetTop;
+
+        function myFunction() {
+        if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+            } else {
+            header.classList.remove("sticky");
+            }
+        }
+
+    </script>
+
+
+</html>
