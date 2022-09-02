@@ -2,7 +2,7 @@
 Problems set solutions from CS50 OpenCourseWare. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript. Problem sets inspired by the arts, humanities, social sciences, and sciences. Course culminates in a final project. 
 
 # CS50x
- All exercises performed in CS50x, with 100%. started on 31/8/2021. Till week 7 on 9/12/21
+ All exercises performed in CS50x, with 100%, in 2021.
  
 Enroll here: [CS50x](https://cs50.harvard.edu/x/)\
 Instructor: [David J. Malan](https://cs.harvard.edu/malan/)\
